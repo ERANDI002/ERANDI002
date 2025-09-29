@@ -1,16 +1,45 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531846347/4246/blob-code.gif?1531846347" width="100"/>
+</p>
 
-<!--
-**ERANDI002/ERANDI002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I'm Erandi Wickramaarachchi
 
-Here are some ideas to get you started:
+An **IT Undergraduate** and **Aspiring Software Engineer** passionate about **Web Development**, data structures, and creating meaningful, user-friendly applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+* 🎓 **Currently Studying:** IT Undergraduate .
+* 💻 **Focus:** Building modern, responsive web applications using the MERN stack.
+* 🤝 **Collaboration:** Open to working on exciting **Full-Stack Projects** and contributing to open-source initiatives.
+* 🌐 **Connect:** Find me on [LinkedIn](https://www.linkedin.com/in/erandiwickramaarachchi63f8b3312) to chat about tech!
+* 📍 **Based in:** Colombo, Sri Lanka.
+
+<br>
+
+### 🛠 Technologies & Tools
+
+**Languages** | `C#` `JavaScript` `Java` `Python` `SQL` |
+| **Frontend** | `React` `HTML5` `CSS3` |
+| **Backend** | `.NET` `Node.js` `Express.js`|
+| **Databases** | `MongoDB` `MySQL` |
+| **DevOps** | `Git` `GitHub` |
+
+<br>
+
+### 🔥 My GitHub Stats
+
+<p align="center">
+    <a href="https://github.com/ERANDI002">
+        <img src="https://github-readme-stats.vercel.app/api?username=ERANDI002&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Erandi's GitHub Stats" />
+    </a>
+    
+    <a href="https://github.com/ERANDI002">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERANDI002&layout=compact&theme=dark" alt="Erandi's Top Languages" />
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ERANDI002&label=Profile+views&color=0e75b6&style=flat" alt="Profile views counter" />
+</p>
