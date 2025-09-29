@@ -35,9 +35,7 @@ An **IT Undergraduate** and **Aspiring Software Engineer** passionate about **We
         <img src="https://github-readme-stats.vercel.app/api?username=ERANDI002&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Erandi's GitHub Stats" />
     </a>
     
-    <a href="https://github.com/ERANDI002">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERANDI002&layout=compact&theme=dark" alt="Erandi's Top Languages" />
-    </a>
+    
 </p>
 
 <p align="center">
