@@ -13,7 +13,7 @@ An **IT Undergraduate** and **Aspiring Software Engineer** passionate about **We
 * 🎓 **Currently Studying:** IT Undergraduate .
 * 💻 **Focus:** Building modern, responsive web applications using the MERN stack.
 * 🤝 **Collaboration:** Open to working on exciting **Full-Stack Projects** and contributing to open-source initiatives.
-* 🌐 **Connect:** Find me on [LinkedIn](https://www.linkedin.com/in/erandiwickramaarachchi63f8b3312) to chat about tech!
+* 🌐 **Connect:** Find me on [LinkedIn](www.linkedin.com/in/erandi-wickramaarachchi-6393b5312) to chat about tech!
 * 📍 **Based in:** Colombo, Sri Lanka.
 
 <br>
