@@ -10,7 +10,7 @@ An **IT Undergraduate** and **Aspiring Software Engineer** passionate about **We
 
 ### 🚀 About Me
 
-* 🎓 **Currently Studying:** IT Undergraduate .
+* 🎓 **Currently Studying:** University of Sri Jayewardenepura .
 * 💻 **Focus:** Building modern, responsive web applications using the MERN stack.
 * 🤝 **Collaboration:** Open to working on exciting **Full-Stack Projects** and contributing to open-source initiatives.
 * 🌐 **Connect:** Find me on **[LinkedIn](https://www.linkedin.com/in/erandi-wickramaarachchi-6393b5312)** to chat about tech!
