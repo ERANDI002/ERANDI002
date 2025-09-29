@@ -28,15 +28,6 @@ An **IT Undergraduate** and **Aspiring Software Engineer** passionate about **We
 
 <br>
 
-### 🔥 My GitHub Stats
-
-<p align="center">
-    <a href="https://github.com/ERANDI002">
-        <img src="https://github-readme-stats.vercel.app/api?username=ERANDI002&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Erandi's GitHub Stats" />
-    </a>
-    
-    
-</p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ERANDI002&label=Profile+views&color=0e75b6&style=flat" alt="Profile views counter" />
